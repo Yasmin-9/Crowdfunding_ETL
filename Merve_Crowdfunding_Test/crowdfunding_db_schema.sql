@@ -38,10 +38,6 @@ CREATE TABLE campaign (
     staff_pick BOOLEAN,
     spotlight BOOLEAN,
     event_type_id INTEGER,
-    category_id_x INTEGER,
-    subcategory_id_x INTEGER,
-    category_id_y INTEGER,
-    subcategory_id_y INTEGER,
     category_id INTEGER REFERENCES category(category_id),
     subcategory_id INTEGER REFERENCES subcategory(subcategory_id)
 );
