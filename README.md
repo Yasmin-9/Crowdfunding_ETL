@@ -7,6 +7,7 @@ The two Excel files in the Resources folder were used to build the data frames f
 - contacts.xlsx
 
 ### ERD
+![image](https://github.com/Yasmin-9/Crowdfunding_ETL/assets/142265222/bee2ad2d-707a-4d0e-bc57-6cda858576b7)
 
 
 ## Project Outline
