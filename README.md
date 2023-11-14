@@ -6,6 +6,9 @@ The two Excel files in the Resources folder were used to build the data frames f
 - crowdfunding.xlsx
 - contacts.xlsx
 
+### ERD
+
+
 ## Project Outline
 The project was divided into 4 major sections: 
 
