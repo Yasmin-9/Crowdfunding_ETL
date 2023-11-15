@@ -77,3 +77,6 @@ _Note: Remember to specify the data types, primary keys, foreign keys, and other
 6. Verify the table creation by running a SELECT statement for each table.
 7. Import each CSV file into its corresponding SQL table.
 8. Verify that each table has the correct data by running a SELECT statement for each.
+
+### Conclusion
+Extract, Transform and Load successfuly done
