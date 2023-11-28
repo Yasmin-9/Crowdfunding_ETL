@@ -80,3 +80,6 @@ _Note: Remember to specify the data types, primary keys, foreign keys, and other
 
 ### Conclusion
 Extract, Transform and Load successfuly done
+
+### Group members: 
+Augdrey Nkurmah, Angaddeep Dhillon, Merve Celme, Yasmin Bsata
