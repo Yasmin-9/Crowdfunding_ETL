@@ -82,4 +82,4 @@ _Note: Remember to specify the data types, primary keys, foreign keys, and other
 Extract, Transform and Load successfuly done
 
 ### Group members: 
-Augdrey Nkurmah, Angaddeep Dhillon, Merve Celme, Yasmin Bsata
+Augdrey Nkrumah, Angaddeep Dhillon, Merve Celme, Yasmin Bsata
